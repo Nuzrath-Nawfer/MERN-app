@@ -3,7 +3,7 @@
     "DB_USER": "Nuzrath",
     "DB_PASSWORD": "academind123",
     "DB_NAME": "places",
-    "GOOGLE_API_KEY": "AIzaSyDgLmMpKCzveJf1_yuA0fUzzhy0WRChvZA",
+    "GOOGLE_API_KEY": "...",
     "JWT_KEY": "supersecret_dont_share"
   }
 }
